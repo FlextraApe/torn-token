@@ -32,7 +32,7 @@ module.exports = {
   rewardSwap: { address: 'reward-swap.contract.tornadocash.eth', poolWeight: 1e11 },
   tornadoTrees: { address: 'tornado-trees.contract.tornadocash.eth', levels: 20 },
   tornadoProxy: { address: 'tornado-proxy.contract.tornadocash.eth' },
-  tornadoProxyLight: { address: '0x0D5550d52428E7e3175bfc9550207e4ad3859b17' },
+  tornadoProxyLight: { address: '0x9a19E06322d1FE9bEDBd3F6555803De2713C1762' },
   rewardVerifier: { address: 'reward-verifier.contract.tornadocash.eth' },
   treeUpdateVerifier: { address: 'tree-update-verifier.contract.tornadocash.eth' },
   withdrawVerifier: { address: 'withdraw-verifier.contract.tornadocash.eth' },
@@ -41,7 +41,7 @@ module.exports = {
   feeManager: { address: 'fee-manager.contract.tornadocash.eth' },
   tornadoStakingRewards: { address: 'staking-rewards.contract.tornadocash.eth' },
   relayerRegistry: { address: 'relayer-registry.contract.tornadocash.eth' },
-  tornadoRouter: { address: 'tornado-router.contract.tornadocash.eth' },
+  tornadoRouter: { address: '0x9a19E06322d1FE9bEDBd3F6555803De2713C1762' },
   instanceRegistry: { address: 'instance-registry.contract.tornadocash.eth' },
   deployer: { address: 'deployer.contract.tornadocash.eth' },
   vesting: {
@@ -85,10 +85,11 @@ module.exports = {
     netId1: {
       eth: {
         instanceAddress: {
-          0.1: '0x12D66f87A04A9E220743712cE6d9bB1B5616B8Fc',
-          1: '0x47CE0C6eD5B0Ce3d3A51fdb1C52DC66a7c3c2936',
-          10: '0x910Cbd523D972eb0a6f4cAe4618aD62622b39DbF',
-          100: '0xA160cdAB225685dA1d56aa342Ad8841c3b53f291',
+          0.1: '0x2FD6F383290f3640100119cBe175f0691f86a4E4',
+          0.5: '0xf9550eE7ACdD3E5a6B932a920A345A56069075dD',
+          1: '0xBFd02a8B75CC2CC4F6DE06b0C2340Bd6F8862A49',
+          2: '0x92eB03d795Fd917E289f2e53301f7Df5E2526de1',
+          5: '0xc2eB0c87FAEfe3d1DE926cEb934c337Ab8F79954',
         },
         symbol: 'ETH',
         decimals: 18,
