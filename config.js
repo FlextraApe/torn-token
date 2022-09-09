@@ -89,7 +89,7 @@ module.exports = {
           0.5: '0xf9550eE7ACdD3E5a6B932a920A345A56069075dD',
           1: '0xBFd02a8B75CC2CC4F6DE06b0C2340Bd6F8862A49',
           2: '0x92eB03d795Fd917E289f2e53301f7Df5E2526de1',
-          5: '0xc2eB0c87FAEfe3d1DE926cEb934c337Ab8F79954',
+          5: '0x5E6f20DE931848523B2a91F0330107A92e7E0A22',
         },
         symbol: 'ETH',
         decimals: 18,
