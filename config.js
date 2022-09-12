@@ -153,11 +153,11 @@ module.exports = {
     netId3: {
       eth: {
         instanceAddress: {
-          0.1: '0x84443CFd09A48AF6eF360C6976C5392aC5023a1F',
-          0.2: '0x84443CFd09A48AF6eF360C6976C5392aC5023a1F',
-          0.5: '0xd47438C816c9E7f2E2888E060936a499Af9582b3',
-          1: '0x330bdFADE01eE9bF63C209Ee33102DD334618e0a',
-          5: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
+          0.1: '0x3F589e020B1cf7562d71D8eF0c245212A792f66b',
+          0.2: '0xCBD2B9f6d73a3c337FD86AD36Ec753bCa2aB9971',
+          0.5: '0xCBD2B9f6d73a3c337FD86AD36Ec753bCa2aB9971',
+          1: '0x957935f41658944B54C44Ed8e535e0d004676Bc6',
+          5: '0x3f99a3B3e627e6c35Fde76f7Abf535903098D63D',
         },
         symbol: 'ETH',
         decimals: 18,
