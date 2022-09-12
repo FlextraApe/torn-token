@@ -150,6 +150,19 @@ module.exports = {
         decimals: 8,
       },
     },
+    netId3: {
+      eth: {
+        instanceAddress: {
+          0.1: '0x84443CFd09A48AF6eF360C6976C5392aC5023a1F',
+          0.2: '0x84443CFd09A48AF6eF360C6976C5392aC5023a1F',
+          0.5: '0xd47438C816c9E7f2E2888E060936a499Af9582b3',
+          1: '0x330bdFADE01eE9bF63C209Ee33102DD334618e0a',
+          5: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
+        },
+        symbol: 'ETH',
+        decimals: 18,
+      },
+    },
     netId5: {
       eth: {
         instanceAddress: {
