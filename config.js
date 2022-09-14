@@ -254,6 +254,18 @@ module.exports = {
         decimals: 18,
       },
     },
+    netId97: {
+      bnb: {
+        instanceAddress: {
+          0.1: '0xf9ca8b168647228Cf6Fe3718d03464c85e6292E0',
+          1: '0x957935f41658944B54C44Ed8e535e0d004676Bc6',
+          10: '0x330bdFADE01eE9bF63C209Ee33102DD334618e0a',
+          100: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
+        },
+        symbol: 'BNB',
+        decimals: 18,
+      },
+    },
     netId100: {
       xdai: {
         instanceAddress: {
