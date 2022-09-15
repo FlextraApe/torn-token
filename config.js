@@ -253,15 +253,6 @@ module.exports = {
         symbol: 'BNB',
         decimals: 18,
       },
-      busd: {
-        instanceAddress: {
-          10: '0x13C1CE2b1e4303F303b69E552712FdbB40DEEB63',
-          100: '0xd96f2B1c14Db8458374d9Aca76E26c3D18364307',
-        },
-        tokenAddress: '0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7',
-        symbol: 'BUSD',
-        decimals: 18,
-      },
     },
     netId97: {
       bnb: {
@@ -272,6 +263,15 @@ module.exports = {
           100: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
         },
         symbol: 'BNB',
+        decimals: 18,
+      },
+      busd: {
+        instanceAddress: {
+          10: '0x13C1CE2b1e4303F303b69E552712FdbB40DEEB63',
+          100: '0xd96f2B1c14Db8458374d9Aca76E26c3D18364307',
+        },
+        tokenAddress: '0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7',
+        symbol: 'BUSD',
         decimals: 18,
       },
     },
