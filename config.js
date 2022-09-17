@@ -245,12 +245,24 @@ module.exports = {
     netId56: {
       bnb: {
         instanceAddress: {
-          0.1: '0x84443CFd09A48AF6eF360C6976C5392aC5023a1F',
-          1: '0xd47438C816c9E7f2E2888E060936a499Af9582b3',
-          10: '0x330bdFADE01eE9bF63C209Ee33102DD334618e0a',
-          100: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
+          1: '0x063117fD87cdD6184D8d8Da81Da5D06921e5D934',
+          5: '0x064448354f5acE198D5BD820607526a618Bb343E',
+          10: '0x66F80878915015AC7f35F46816675F71814a7361',
+          20: '0xC0E54Fd3A8bD16beE179C15452de212BE1CD551B',
         },
         symbol: 'BNB',
+        decimals: 18,
+      },
+      busd: {
+        instanceAddress: {
+          100: '0x90e0DbFCeA196b0cE5876161E3ac281c168a49d5',
+          500: '0x83DF7bFabbD23BFAB8766AAD2440F8bD3178C869',
+          1000: '0xbbb3744f6232CeFD5F53395E1081F03AcBaB6d36',
+          2000: '0x4aB82015557AE2b09c825DbB6683De858A5ae74e',
+          5000: '0x9a19E06322d1FE9bEDBd3F6555803De2713C1762',
+        },
+        tokenAddress: '0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56',
+        symbol: 'BUSD',
         decimals: 18,
       },
     },
@@ -259,8 +271,9 @@ module.exports = {
         instanceAddress: {
           0.1: '0xf9ca8b168647228Cf6Fe3718d03464c85e6292E0',
           1: '0x957935f41658944B54C44Ed8e535e0d004676Bc6',
-          10: '0x330bdFADE01eE9bF63C209Ee33102DD334618e0a',
-          100: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
+          5: '0x330bdFADE01eE9bF63C209Ee33102DD334618e0a',
+          10: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
+          20: '0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD',
         },
         symbol: 'BNB',
         decimals: 18,
