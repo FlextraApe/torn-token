@@ -3,7 +3,7 @@
 pragma solidity ^0.6.0;
 
 // A copy from https://github.com/OpenZeppelin/openzeppelin-contracts/pull/2237/files
-
+ 
 /**
  * @dev Elliptic Curve Digital Signature Algorithm (ECDSA) operations.
  *
